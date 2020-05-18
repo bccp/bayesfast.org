@@ -1,0 +1,53 @@
+baseURL = "http://bayesfast.org/"
+languageCode = "en-us"
+title = "bayesfast.org"
+theme = "compose"
+
+enableRobotsTXT = true
+enableGitInfo = true
+
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+#  menu items
+[[menu.main]]
+    name = "Docs"
+    weight = 2
+    url = "docs/"
+
+[[menu.main]]
+    name = "Issues"
+    weight = 2
+    url = "https://github.com/HerculesJack/bayesfast/issues"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ""
+    lineNoStart = 1
+    lineNos = true
+    lineNumbersInTable = true
+    noClasses = false
+    style = "monokai"
+    tabWidth = 2
+
+# Everything below this are Site Params
+
+[params]
+  author = "the bayefast team"
+  searchPlaceholder = "Search the docs ..."
+  repo = "https://github.com/bccp/bayesfast.org"
+
+  time_format_blog = "Monday, January 02, 2006"
+  time_format_default = "January 2, 2006"
+  [params.logo]
+    lightMode = "bayesfast.svg"
+    darkMode = "bayesfast-light.svg"
+
+  [params.source]
+    name = "GitHub"
+    icon = "github.svg"
+    url = "https://github.com/HerculesJack/bayesfast"

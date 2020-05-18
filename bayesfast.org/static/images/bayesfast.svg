@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0beta2 (unknown)"
+   sodipodi:docname="bayesfast.svg"
+   viewBox="0 0 256 64"
+   height="64"
+   width="256"
+   id="svg917"
+   version="1.1">
+  <metadata
+     id="metadata923">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs921" />
+  <sodipodi:namedview
+     inkscape:snap-text-baseline="true"
+     inkscape:current-layer="g925"
+     inkscape:window-maximized="1"
+     inkscape:window-y="54"
+     inkscape:window-x="0"
+     inkscape:cy="95"
+     inkscape:cx="125.16276"
+     inkscape:zoom="2.0266101"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:guide-bbox="true"
+     showguides="true"
+     inkscape:snap-nodes="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:snap-page="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox="true"
+     showgrid="false"
+     id="namedview919"
+     inkscape:window-height="982"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     inkscape:document-rotation="0"
+     bordercolor="#666666"
+     pagecolor="#ffffff">
+    <sodipodi:guide
+       id="guide836"
+       orientation="0,-1"
+       position="85.364223,19.590867" />
+  </sodipodi:namedview>
+  <g
+     id="g925"
+     inkscape:label="Image"
+     inkscape:groupmode="layer">
+    <path
+       inkscape:connector-curvature="0"
+       id="path933"
+       d="m 20.715617,11.947069 c 7.483191,-2.3630906 11.220458,6.178768 15.888753,9.814126 2.999796,2.336102 7.181321,3.064341 10.408203,5.171323 2.358803,1.54024 6.331039,3.650236 5.755245,7.029731 -0.623737,3.6612 -4.441207,5.884442 -7.398819,7.555845 -4.989888,2.81974 -10.434773,3.61681 -15.613946,5.835393 -4.878401,2.089527 -8.893459,5.224643 -14.244305,6.168302 -3.97879,0.701716 -5.9875655,-2.141045 -3.80942,-5.585502 2.847738,-4.503474 7.297275,-7.039079 11.47943,-10.068155 1.28007,-0.927218 2.953913,-2.145702 2.95405,-3.905883 1.09e-4,-2.124051 -2.46358,-4.533229 -3.49873,-6.302012 -1.811136,-3.094673 -2.326533,-5.925236 -3.217624,-9.316021 -0.565855,-2.153234 -1.557697,-5.495631 1.297163,-6.397147"
+       style="fill:#47e7e3;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path955"
+       d="m 25.650337,17.451823 c 1.885891,-0.467089 3.970025,1.262814 5.073191,2.547192 1.309764,1.524868 2.214305,3.178873 3.962244,4.305563 3.330153,2.146548 7.320476,2.853826 10.384646,5.495028 1.16721,1.005938 2.530828,2.482993 2.374415,4.162643 -0.234484,2.513957 -2.558769,4.377712 -4.541193,5.585507 -4.856761,2.958931 -10.576066,3.488577 -15.613948,5.990477 -2.456978,1.220127 -5.401632,3.627769 -8.217868,3.737091 -3.499963,0.136184 -1.443523,-3.317047 0.0011,-4.537723 3.326137,-2.810696 7.845718,-3.905055 10.95188,-6.950299 0.996526,-0.977087 2.136317,-2.313116 2.054659,-3.825053 -0.103269,-1.912742 -1.915035,-3.397606 -3.142128,-4.658009 -1.811464,-1.860601 -3.976297,-4.280437 -4.680486,-6.850015 -0.446313,-1.628632 -0.691999,-4.485883 1.393531,-5.002402"
+       style="fill:#fbff02;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       id="text834"
+       y="44.409134"
+       x="63.818226"
+       style="font-size:37.3333px;line-height:1.5;font-family:sans-serif;letter-spacing:0px;word-spacing:0px"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Comfortaa;-inkscape-font-specification:Comfortaa"
+         y="44.409134"
+         x="63.818226"
+         id="tspan832"
+         sodipodi:role="line">Bayesfast</tspan></text>
+  </g>
+</svg>
