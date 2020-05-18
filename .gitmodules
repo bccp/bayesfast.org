@@ -1,3 +1,3 @@
-[submodule "bayesfast.org/themes/compose"]
+[submodule "themes/compose"]
 	path = themes/compose
 	url = https://github.com/onweru/compose.git
