@@ -1,4 +1,4 @@
-baseURL = "http://bayesfast.org/"
+baseURL = "https://bayesfast.org/"
 languageCode = "en-us"
 title = "bayesfast.org"
 theme = "compose"
