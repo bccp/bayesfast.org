@@ -48,6 +48,6 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     darkMode = "bayesfast-light.svg"
 
   [params.source]
-    name = "GitHub"
+    name = "Edit"
     icon = "github.svg"
-    url = "https://github.com/HerculesJack/bayesfast"
+    url = "https://github.com/bccp/bayesfast.org"
